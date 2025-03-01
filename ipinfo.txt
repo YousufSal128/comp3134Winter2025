@@ -1,0 +1,29 @@
+20.231.239.246
+Microsoft Corporation
+Location	Ashburn, Virginia, United States of America
+AS	AS8075
+AS name	Microsoft Corporation
+
+192.104.182.109
+Lee Enterprises, Incorporated
+Location	Chicago, Illinois, United States of America
+AS	AS10668
+AS name	Lee Enterprises, Incorporated
+
+143.166.30.172
+Dell, Inc.
+Location	Round Rock, Texas, United States of America
+AS	AS3614
+AS name	Dell, Inc.
+
+209.11.151.163
+Capcom Entertainment, Inc
+Location	San Jose, California, United States of America
+AS	AS40913
+AS name	Quality Technology Services, LLC
+
+69.48.216.7
+Uber Technologies, Inc
+Location	San Francisco, California, United States of America
+AS	AS396982
+AS name	Google LLC
