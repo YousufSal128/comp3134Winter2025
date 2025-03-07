@@ -1,0 +1,42 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap 69.48.216.7
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-03-01 00:24 UTC
+Nmap scan report for 69.48.216.7
+Host is up (0.0019s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.02 seconds
+
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 4000 23.210.99.172
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-03-01 00:26 UTC
+Nmap scan report for a23-210-99-172.deploy.static.akamaitechnologies.com (23.210.99.172)
+Host is up (0.22s latency).
+
+PORT     STATE    SERVICE
+4000/tcp filtered remoteanything
+
+Nmap done: 1 IP address (1 host up) scanned in 2.50 seconds
+
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 3000-6000 23.56.29.3
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-03-01 00:34 UTC
+Nmap scan report for a23-56-29-3.deploy.static.akamaitechnologies.com (23.56.29.3)
+Host is up (0.24s latency).
+All 3001 scanned ports on a23-56-29-3.deploy.static.akamaitechnologies.com (23.56.29.3) are filtered
+
+Nmap done: 1 IP address (1 host up) scanned in 29.27 seconds
+
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F 34.194.97.138
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-03-01 00:38 UTC
+Nmap scan report for ec2-34-194-97-138.compute-1.amazonaws.com (34.194.97.138)
+Host is up (0.019s latency).
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.89 seconds

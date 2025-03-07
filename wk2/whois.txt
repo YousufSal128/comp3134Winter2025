@@ -1,0 +1,384 @@
+Registrant Contact Information:
+Name:
+Jewella Privacy - e4e15
+Organization:
+Jewella Privacy LLC Privacy ID# 1092712
+Address Line 1:
+5860 Citrus Blvd, Suite D, #172
+Address Line 2:
+City:
+Harahan
+State/Province:
+LA
+Postal Code:
+70123
+Country:
+US
+Phone:
++1.5043550545
+Fax:
+Email:
+
+Full Address:
+5860 Citrus Blvd, Suite D, #172, Harahan, LA, 70123, US
+
+Administrative Contact Information:
+Name:
+Jewella Privacy
+Organization:
+Jewella Privacy LLC Privacy ID# 1092712
+Address Line 1:
+5860 Citrus Blvd, Suite D, #172
+Address Line 2:
+City:
+Harahan
+State/Province:
+LA
+Postal Code:
+70123
+Country:
+US
+Phone:
++1.5043550545
+Fax:
+Email:
+
+Full Address:
+5860 Citrus Blvd, Suite D, #172, Harahan, LA, 70123, US
+
+Tech Contact Information:
+Name:
+Jewella Privacy
+Organization:
+Jewella Privacy LLC Privacy ID# 1092712
+Address Line 1:
+5860 Citrus Blvd, Suite D, #172
+Address Line 2:
+City:
+Harahan
+State/Province:
+LA
+Postal Code:
+70123
+Country:
+US
+Phone:
++1.5043550545
+Fax:
+Email:
+
+Full Address:
+5860 Citrus Blvd, Suite D, #172, Harahan, LA, 70123, US
+
+Information Updated: 2025-02-28 23:30:32.500377+00
+
+
+
+
+Registrant Contact Information:
+Name:
+Hostmaster, Amazon Legal Dept.
+Organization:
+Amazon Technologies, Inc.
+Address Line 1:
+P.O. Box 8102
+Address Line 2:
+City:
+Reno
+State/Province:
+NV
+Postal Code:
+89507
+Country:
+US
+Phone:
++1.2062664064
+Fax:
++1.2062667010
+Email:
+
+Full Address:
+P.O. Box 8102, Reno, NV, 89507, US
+
+Administrative Contact Information:
+Name:
+Hostmaster, Amazon Legal Dept.
+Organization:
+Amazon Technologies, Inc.
+Address Line 1:
+P.O. Box 8102
+Address Line 2:
+City:
+Reno
+State/Province:
+NV
+Postal Code:
+89507
+Country:
+US
+Phone:
++1.2062664064
+Fax:
++1.2062667010
+Email:
+
+Full Address:
+P.O. Box 8102, Reno, NV, 89507, US
+
+Tech Contact Information:
+Name:
+Hostmaster, Amazon Legal Dept.
+Organization:
+Amazon Technologies, Inc.
+Address Line 1:
+P.O. Box 8102
+Address Line 2:
+City:
+Reno
+State/Province:
+NV
+Postal Code:
+89507
+Country:
+US
+Phone:
++1.2062664064
+Fax:
++1.2062667010
+Email:
+
+Full Address:
+P.O. Box 8102, Reno, NV, 89507, US
+
+Information Updated: 2025-02-28 21:05:13.657327+00
+
+Registrant Contact Information:
+Name:
+Domain Administrator
+Organization:
+Verizon Trademark Services LLC
+Address Line 1:
+1300 Street NW Suite 500 East
+Address Line 2:
+City:
+Washington
+State/Province:
+DC
+Postal Code:
+20005
+Country:
+US
+Phone:
++1.2025152440
+Fax:
++1.7033513669
+Email:
+
+Full Address:
+1300 Street NW Suite 500 East, Washington, DC, 20005, US
+
+Administrative Contact Information:
+Name:
+Domain Administrator
+Organization:
+Verizon Trademark Services LLC
+Address Line 1:
+1300 Street NW Suite 500 East
+Address Line 2:
+City:
+Washington
+State/Province:
+DC
+Postal Code:
+20005
+Country:
+US
+Phone:
++1.2025152440
+Fax:
++1.7033513669
+Email:
+
+Full Address:
+1300 Street NW Suite 500 East, Washington, DC, 20005, US
+
+Tech Contact Information:
+Name:
+Domain Technician
+Organization:
+Verizon Trademark Services LLC
+Address Line 1:
+1300 Street NW Suite 500 East
+Address Line 2:
+City:
+Washington
+State/Province:
+DC
+Postal Code:
+20005
+Country:
+US
+Phone:
++1.2025152440
+Fax:
++1.7033513669
+Email:
+
+Full Address:
+1300 Street NW Suite 500 East, Washington, DC, 20005, US
+
+Information Updated: 2025-02-28 23:42:55.886228+00
+
+Registrant Contact Information:
+Name:
+Domain Admin
+Organization:
+Rogers Communications Inc.
+Address Line 1:
+333 Bloor St. East., 9th Floor
+Address Line 2:
+City:
+Toronto
+State/Province:
+ON
+Postal Code:
+M4W 1G9
+Country:
+CA
+Phone:
++1.4169357938
+Fax:
++1.4169357627
+Email:
+
+Full Address:
+333 Bloor St. East., 9th Floor, Toronto, ON, M4W 1G9, CA
+
+Administrative Contact Information:
+Name:
+Domain Admin
+Organization:
+Rogers Communications Inc.
+Address Line 1:
+333 Bloor St. East., 9th Floor
+Address Line 2:
+City:
+Toronto
+State/Province:
+ON
+Postal Code:
+M4W 1G9
+Country:
+CA
+Phone:
++1.4169357938
+Fax:
++1.4169357627
+Email:
+
+Full Address:
+333 Bloor St. East., 9th Floor, Toronto, ON, M4W 1G9, CA
+
+Tech Contact Information:
+Name:
+Domain Tech
+Organization:
+Rogers Communications Inc. - CDN
+Address Line 1:
+RCI - Rogers Shared Services
+Address Line 2:
+City:
+Brampton
+State/Province:
+ON
+Postal Code:
+L6T 0C1
+Country:
+CA
+Phone:
++1.6477475312
+Fax:
++1.6477475312
+Email:
+
+Full Address:
+RCI - Rogers Shared Services, Brampton, ON, L6T 0C1, CA
+
+Information Updated: 2025-02-28 21:24:49.434463+00
+
+Registrant Contact Information:
+Name:
+Domain Admin
+Organization:
+GN Audio A/S
+Address Line 1:
+Lautrupbjerg 7
+Address Line 2:
+City:
+Ballerup
+State/Province:
+DK
+Postal Code:
+2750
+Country:
+DK
+Phone:
++45.45750000
+Fax:
++45.45758889
+Email:
+
+Full Address:
+Lautrupbjerg 7, Ballerup, DK, 2750, DK
+
+Administrative Contact Information:
+Name:
+Domain Admin
+Organization:
+GN Audio A/S
+Address Line 1:
+Lautrupbjerg 7
+Address Line 2:
+City:
+Ballerup
+State/Province:
+DK
+Postal Code:
+2750
+Country:
+DK
+Phone:
++45.45750000
+Fax:
++45.45758889
+Email:
+
+Full Address:
+Lautrupbjerg 7, Ballerup, DK, 2750, DK
+
+Tech Contact Information:
+Name:
+DBMS Tech
+Organization:
+VeriSign, Inc.
+Address Line 1:
+487 E. Middlefield Rd.
+Address Line 2:
+City:
+Mountain View
+State/Province:
+CA
+Postal Code:
+94043
+Country:
+US
+Phone:
++1.8005792848
+Fax:
++1.6502378883
+Email:
+
+Full Address:
+487 E. Middlefield Rd., Mountain View, CA, 94043, US
+
+Information Updated: 2025-02-28 01:49:38.685225+00
