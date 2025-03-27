@@ -1,0 +1,41 @@
+tcpdump -A -i eth0
+
+20:32:12.773539 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > pool-99-232-18-89.cpe.net.cable.rogers.com.54746: Flags [P.], seq 517048:517212, ack 181, win 501, length 164
+E.....@.@.l.....c..Y....v_Ora..\P........MR(B.t.".ojz'..{u..K..8.I^.4.mt....=V.B..Y.O.(..*e.?.-....6..b...O....tJn....e3.....V..X..Q%..f..g.u.....Y...A..O....J.Ze5U....
+......M.R.....i/.......-..-.r..B..\
+20:32:12.773569 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > pool-99-232-18-89.cpe.net.cable.rogers.com.54746: Flags [P.], seq 517212:517248, ack 181, win 501, length 36
+E..L..@.@.m.....c..Y....v_P.a..\P....>...S.{.
+e.'...bO|.....C.....*).....X..
+20:32:12.773614 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > pool-99-232-18-89.cpe.net.cable.rogers.com.54746: Flags [P.], seq 517248:517300, ack 181, win 501, length 52
+E..\..@.@.m.....c..Y....v_P:a..\P....N...gZ#.....!...=:...S".Z.e..L.7.-.(.f..xT..S..t.dia.G.
+20:32:12.773663 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > pool-99-232-18-89.cpe.net.cable.rogers.com.54746: Flags [P.], seq 517300:517368, ack 181, win 501, length 68
+E..l..@.@.l.....c..Y....v_Pna..\P....^....1...b.t..?......x..,.H.....M=,K ..+....F..;n.....?I.>..8....wm....
+20:32:12.773725 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > pool-99-232-18-89.cpe.net.cable.rogers.com.54746: Flags [P.], seq 517368:517548, ack 181, win 501, length 180
+E.....@.@.l.....c..Y....v_P.a..\P........}3x....%..]...Dj.T?U.....-.IS.t...>.. t.oW.sD..........h..D..1..@
+a,Rz.$..3X._FFp.).&vG...i..Z.j?.i.i..B.f$.&..;.3FP....n..m.N.."p.;.y./....\.s...!.]Rw...zWn..r.8F...;....}P. ....
+20:32:12.773787 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > pool-99-232-18-89.cpe.net.cable.rogers.com.54746: Flags [P.], seq 517548:517840, ack 181, win 501, length 292
+E..L..@.@.l.....c..Y....v_Qfa..\P....>.......~Z..op=C..v%.'.o.........ex.-..
+.=....'v...f.
+)...F...._A..J+uR5."..l..V......5.c......7.-.....%).3..M..z..H....J.i..I..-.u...PT.(1..X\>J.!V....Og......K5.@\4...mDH...6.M.
+....".a........{.....v..,]].J....&
+..TL..D3.^q..Jl...*9.X...U...~0.......!...s.,.s....C.....!
+
+U......._...\W."....
+20:32:12.773847 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > pool-99-232-18-89.cpe.net.cable.rogers.com.54746: Flags [P.], seq 517840:518124, ack 181, win 501, length 284
+E..D..@.@.l.....c..Y....v_R.a..\P....6...
+.g.g....D.Hc.....7.?........7..#....1...\_..t.V.......B......F..YgT...".q......h............y...L?Z.}.....ymo.4.KG.s.rM....6_.#.H..I.C.~.%.......[.:.......g6..X.Y...%.{..}!.kR.R.....e9i..K.....!}.P....Y.*....(...0.....C....!q....yB.....G=.*2o....{H....E)?$h<i{t.w...*.}Q?v....We.Qw1
+20:32:12.773915 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > pool-99-232-18-89.cpe.net.cable.rogers.com.54746: Flags [P.], seq 518124:518344, ack 181, win 501, length 220
+E.....@.@.lX....c..Y....v_S.a..\P.......dTp..y.."8..#\....}....QT.._.a..eUm.0 8.;..v....";.O|.....m...P.9.5...y.G.r..(..1...    .$
+.zg...#....z~.*1.........5|.,5;/+..}.;J"f...uz.Z.].....%.r...\>...o.b...lG\.W.N.f,..c...5;.#m%.....N.
+.R....c.g..2|   ....D..d.....q6D
+20:32:12.773965 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > pool-99-232-18-89.cpe.net.cable.rogers.com.54746: Flags [P.], seq 518344:518484, ack 181, win 501, length 140
+E.....@.@.l.....c..Y....v_T.a..\P............*..7bh.<......".}...zG^...SP...H.l(B?......T...2:..+.?..Fy
+...3uq.C..#..v).u
+ZPN....l6.....W.g_..w.4n.M.7.-..NZ...../.y.....`..'..)...S
+20:32:12.774058 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > pool-99-232-18-89.cpe.net.cable.rogers.com.54746: Flags [P.], seq 518484:519000, ack 181, win 501, length 516
+E..,..@.@.k.....c..Y....v_U.a..\P.......E2....Z....]...Rd|.i.j...W..Rv....>........{..^../ ..5L...4..U,K0.....(..U..k9..c...... .S...."]..!5.d...CH..G..&).|.._..M9... .MuN~.....~.@.4....$......8.....P.....*.A..J...... ...e.mM.&...$ ......?.?.X..pY.......X3eyW.. .....c...i2...\.5...0..1#...(.......Oa.W..yG..vOq.4...y. .g.H.J.C...MIbo...9..b..z.D..`...Xp.....:*4.F..M......"..,NZ.L..Dy.x....   ..v..z`k..........m..]..~.3J.wVG;.]...o.4..*.....)....k..':.`..7..*..}<.RY..Z....
+^C....E*...]'.v.L.....S.:g..T#u..aYq~C4...E.,01^.M.U.G.q^....8..f.{lL.L........Cl.Ft
+
+1950 packets captured
+4209 packets received by filter
+0 packets dropped by kernel
