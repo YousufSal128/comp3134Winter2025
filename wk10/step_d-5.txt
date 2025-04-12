@@ -1,0 +1,5 @@
+What I see on the browser:
+The script accepts URL-encoded input and decodes it, showing contents of the parent directory. This proves that encoded traversal can bypass simple validations.
+
+What sensitive information is given by this page:
+Even though the input is URL-encoded, the script still processes it, making it easy to enumerate files and explore outside the web root. It can lead to leakage of server structure, config files, or other private resources.

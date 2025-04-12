@@ -1,0 +1,9 @@
+What I see on the browser:
+The page displays a PHP warning or error saying that the 'hello' directory does not exist. It shows a warning like "scandir(hello): failed to open dir: No such file or directory".
+
+What sensitive information is given by this page:
+The PHP warning reveals:
+- The full absolute path of the web root directory on the server (e.g., /var/www/html/)
+- The file structure or internal directory names if the path exists
+- It exposes the server is using PHP and Apache
+This can help an attacker perform a directory traversal or recon for further exploitation.

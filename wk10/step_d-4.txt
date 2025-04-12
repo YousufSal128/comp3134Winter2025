@@ -1,0 +1,5 @@
+What I see on the browser:
+The page displays a list of files and folders from a parent directory of /var/www/html, possibly /var/www or even the root filesystem if you go high enough.
+
+What sensitive information is given by this page:
+It exposes parts of the server’s filesystem structure. An attacker can explore directories outside the web root, which could include configuration files, logs, or even user data. 

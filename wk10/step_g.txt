@@ -1,0 +1,4 @@
+How I mitigated the problem:
+The issue with the original HTML file was that it exposed sensitive information in HTML comments, which can be viewed by anyone using browser developer tools. This is a security and privacy risk.
+
+To fix this, I converted all HTML comments to PHP comments using // inside PHP tags. PHP comments are server-side only and are never rendered or seen in the browser source code.

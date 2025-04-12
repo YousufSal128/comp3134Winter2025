@@ -1,0 +1,6 @@
+How I mitigated the issues:
+
+1. To prevent users from accessing folders above the web root, I used `basename()` to strip directory traversal attempts like `../`.
+2. To ensure the user isn't pointing to a non-existent or malicious path, I used `file_exists()` and `is_dir()` to validate the input.
+Bonus:
+I also blocked any input containing a dot (`.`) to prevent users from passing filenames or dot-based traversal. This ensures only valid folder names within the web root can be accessed.
