@@ -1,0 +1,15 @@
+strip_tags vs htmlentities:
+
+- strip_tags():
+  This function removes all HTML and PHP tags from the input.
+  It prevents any HTML or script tags from being interpreted or shown.
+  However, it also removes useful formatting (e.g., <b>bold</b> becomes just "bold").
+
+- htmlentities():
+  This function converts HTML characters into safe equivalents.
+  For example, < becomes &lt; and > becomes &gt;.
+  This preserves the original input for display but prevents browser execution.
+
+In summary:
+- strip_tags removes all tags entirely
+- htmlentities keeps the input visible but harmless
