@@ -1,0 +1,29 @@
+
+1) Input: Ben  
+Observation:  
+The page didn’t return anything — it just said no active users with that name were found.
+
+Explanation:  
+This made sense because in the database, there’s a user named “Ben” but his `active` value is set to 0. Since the query is looking for rows where `firstname = 'Ben'` AND `active = 1`, it didn’t return anything. The result was expected based on how the query is written.
+
+---
+
+2) Input: Ben’--  
+
+Observation:  
+The page broke and showed a SQL syntax error.
+
+Explanation:  
+This input caused a crash because of the unescaped single quote. It ended the SQL string too early and the two dashes made the rest of the query a comment. Since the string wasn’t closed properly, it threw an error. This shows that the page is vulnerable to SQL injection.
+
+---
+
+3) Input: Ben’ or 1=1  
+Observation:  
+Same thing — the page threw a syntax error again.
+
+Explanation:  
+The idea with this input is to trick the query into always being true using `or 1=1`. But again, because the quote wasn’t handled properly, it caused a syntax error. It didn’t work as intended, but it still confirms the page is vulnerable because it’s not handling input safely.
+
+
+Overall, all 3 tests showed that the page doesn’t sanitize input and is open to SQL injection attacks. Even though not all the injections worked, the errors make it clear that the input is being directly used in the SQL query without any protection.
