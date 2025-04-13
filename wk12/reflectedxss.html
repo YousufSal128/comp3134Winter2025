@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reflected XSS Demo</title>
+</head>
+<body>
+    <h1>Reflected XSS Test</h1>
+
+    <form id="xssForm">
+        <input type="text" id="userInput" placeholder="Type something...">
+        <input type="submit" value="Submit">
+    </form>
+
+    <div id="output"></div>
+
+    <script>
+        document.getElementById("xssForm").addEventListener("submit", function(e) {
+            e.preventDefault(); // Prevent normal form behavior
+            let input = document.getElementById("userInput").value;
+            document.getElementById("output").innerHTML = input; // vulnerable line
+
+        });
+    </script>
+</body>
+</html>

